@@ -53,3 +53,11 @@ streamlit run .\app.py
 - 应用可信视图关系数：576
 
 已经满足实验要求中“500+概念、1000+关系、200+概念/400+关系评估、构建图谱应用”的主体要求。
+
+## 页面展示：
+![alt text](assets/demo1.png)
+![alt text](assets/demo2.png)
+![alt text](assets/demo3.png)
+![alt text](assets/demo4.png)
+![alt text](assets/demo5.png)
+![alt text](assets/demo6.png)
