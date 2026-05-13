@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pydeps/
+.venv/
+venv/
+env/
+
+# 开发工具（所有.开头的目录）
+.factory/
+.kiro/
+.trae/
+.claude/
+.agents/
+
+# PDF源文件（超过100MB限制）
+book/
+
+# md文件（保留README.md）
+*.md
+!README.md
+
+# 测试/临时文件
+test_*.png
+*.log
+*.tmp
+
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,2231 @@
+{
+  "artillery": [
+    {
+      "name": "美国75毫米M1榴弹炮",
+      "model": "M1",
+      "core_model": "M1",
+      "caliber": "75毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 27,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国105毫米M2榴弹炮",
+      "model": "M2",
+      "core_model": "M2",
+      "caliber": "105毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 32,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国105毫米M119榴弹炮",
+      "model": "M119",
+      "core_model": "M119",
+      "caliber": "105毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 36,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国155毫米M198榴弹炮",
+      "model": "M198",
+      "core_model": "M198",
+      "caliber": "155毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 40,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国155毫米M109自行榴弹炮",
+      "model": "M109自行",
+      "core_model": "M109",
+      "caliber": "155毫米",
+      "category": "榴弹炮",
+      "subtype": "自行",
+      "page": 44,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国203毫米M110自行榴弹炮",
+      "model": "M110自行",
+      "core_model": "M110",
+      "caliber": "203毫米",
+      "category": "榴弹炮",
+      "subtype": "自行",
+      "page": 49,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "苏联122毫米M-30榴弹炮",
+      "model": "M-30",
+      "core_model": "M-30",
+      "caliber": "122毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 53,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "苏联152毫米ML-20榴弹炮",
+      "model": "ML-20",
+      "core_model": "ML-20",
+      "caliber": "152毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 57,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "俄罗斯152毫米2S19自行榴弹炮",
+      "model": "2S19自行",
+      "core_model": "2S19",
+      "caliber": "152毫米",
+      "category": "榴弹炮",
+      "subtype": "自行",
+      "page": 61,
+      "countries": [
+        "俄罗斯"
+      ]
+    },
+    {
+      "name": "德国105毫米leFH 18榴弹炮",
+      "model": "leFH 18",
+      "core_model": "leFH 18",
+      "caliber": "105毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 65,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "德国150毫米sFH 18榴弹炮",
+      "model": "sFH 18",
+      "core_model": "sFH 18",
+      "caliber": "150毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 69,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "英国QF 25磅榴弹炮",
+      "model": "QF 25磅",
+      "core_model": "QF 25磅",
+      "caliber": "",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 73,
+      "countries": [
+        "英国"
+      ]
+    },
+    {
+      "name": "英国155毫米M777榴弹炮",
+      "model": "M777",
+      "core_model": "M777",
+      "caliber": "155毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 77,
+      "countries": [
+        "英国"
+      ]
+    },
+    {
+      "name": "英国/德国/意大利155毫米FH70榴弹炮",
+      "model": "FH70",
+      "core_model": "FH70",
+      "caliber": "155毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 81,
+      "countries": [
+        "英国",
+        "德国",
+        "意大利"
+      ]
+    },
+    {
+      "name": "英国\t155毫米AS-90自行榴弹炮",
+      "model": "155毫米AS-90自行",
+      "core_model": "155毫米AS-90",
+      "caliber": "",
+      "category": "榴弹炮",
+      "subtype": "自行",
+      "page": 85,
+      "countries": [
+        "英国"
+      ]
+    },
+    {
+      "name": "英国105毫米阿伯特自行榴弹炮",
+      "model": "阿伯特自行",
+      "core_model": "阿伯特",
+      "caliber": "105毫米",
+      "category": "榴弹炮",
+      "subtype": "自行",
+      "page": 89,
+      "countries": [
+        "英国"
+      ]
+    },
+    {
+      "name": "瑞典155毫米FH77榴弹炮",
+      "model": "FH77",
+      "core_model": "FH77",
+      "caliber": "155毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 93,
+      "countries": [
+        "瑞典"
+      ]
+    },
+    {
+      "name": "法国155毫米TRF1榴弹炮",
+      "model": "TRF1",
+      "core_model": "TRF1",
+      "caliber": "155毫米",
+      "category": "榴弹炮",
+      "subtype": "",
+      "page": 97,
+      "countries": [
+        "法国"
+      ]
+    },
+    {
+      "name": "法国155毫米凯撒自行榴弹炮",
+      "model": "凯撒自行",
+      "core_model": "凯撒",
+      "caliber": "155毫米",
+      "category": "榴弹炮",
+      "subtype": "自行",
+      "page": 100,
+      "countries": [
+        "法国"
+      ]
+    },
+    {
+      "name": "德国155毫米PzH2000自行榴弹炮",
+      "model": "PzH2000自行",
+      "core_model": "PzH2000",
+      "caliber": "155毫米",
+      "category": "榴弹炮",
+      "subtype": "自行",
+      "page": 104,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "韩国\t155毫米K9自行榴弹炮",
+      "model": "155毫米K9自行",
+      "core_model": "155毫米K9",
+      "caliber": "",
+      "category": "榴弹炮",
+      "subtype": "自行",
+      "page": 108,
+      "countries": [
+        "韩国"
+      ]
+    },
+    {
+      "name": "日本155毫米75式自行榴弹炮",
+      "model": "75式自行",
+      "core_model": "75式",
+      "caliber": "155毫米",
+      "category": "榴弹炮",
+      "subtype": "自行",
+      "page": 112,
+      "countries": [
+        "日本"
+      ]
+    },
+    {
+      "name": "日本155毫米99式自行榴弹炮",
+      "model": "99式自行",
+      "core_model": "99式",
+      "caliber": "155毫米",
+      "category": "榴弹炮",
+      "subtype": "自行",
+      "page": 116,
+      "countries": [
+        "日本"
+      ]
+    },
+    {
+      "name": "美国60毫米M2迫击炮",
+      "model": "M2",
+      "core_model": "M2",
+      "caliber": "60毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 121,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国107毫米M30迫击炮",
+      "model": "M30",
+      "core_model": "M30",
+      "caliber": "107毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 125,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国120毫米M120迫击炮",
+      "model": "M120",
+      "core_model": "M120",
+      "caliber": "120毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 129,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国60毫米M224迫击炮",
+      "model": "M224",
+      "core_model": "M224",
+      "caliber": "60毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 132,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国81毫米M252迫击炮",
+      "model": "M252",
+      "core_model": "M252",
+      "caliber": "81毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 136,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国龙火迫击炮",
+      "model": "龙火",
+      "core_model": "龙火",
+      "caliber": "",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 140,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "苏联120毫米M1938迫击炮",
+      "model": "M1938",
+      "core_model": "M1938",
+      "caliber": "120毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 143,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "苏联82毫米2B9迫击炮",
+      "model": "2B9",
+      "core_model": "2B9",
+      "caliber": "82毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 147,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "俄罗斯120毫米2S9自行迫击炮",
+      "model": "2S9自行",
+      "core_model": "2S9",
+      "caliber": "120毫米",
+      "category": "迫击炮",
+      "subtype": "自行",
+      "page": 151,
+      "countries": [
+        "俄罗斯"
+      ]
+    },
+    {
+      "name": "德国81毫米GrW 34迫击炮",
+      "model": "GrW 34",
+      "core_model": "GrW 34",
+      "caliber": "81毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 156,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "英国81毫米L16迫击炮",
+      "model": "L16",
+      "core_model": "L16",
+      "caliber": "81毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 160,
+      "countries": [
+        "英国"
+      ]
+    },
+    {
+      "name": "英国51毫米L9A1迫击炮",
+      "model": "L9A1",
+      "core_model": "L9A1",
+      "caliber": "51毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 164,
+      "countries": [
+        "英国"
+      ]
+    },
+    {
+      "name": "法国120毫米MO-120-RT-61迫击炮",
+      "model": "MO-120-RT-61",
+      "core_model": "MO-120-RT-61",
+      "caliber": "120毫米",
+      "category": "迫击炮",
+      "subtype": "",
+      "page": 168,
+      "countries": [
+        "法国"
+      ]
+    },
+    {
+      "name": "日本120毫米96式自行迫击炮",
+      "model": "96式自行",
+      "core_model": "96式",
+      "caliber": "120毫米",
+      "category": "迫击炮",
+      "subtype": "自行",
+      "page": 171,
+      "countries": [
+        "日本"
+      ]
+    },
+    {
+      "name": "美国114毫米T34多管火箭炮",
+      "model": "T34多管",
+      "core_model": "T34",
+      "caliber": "114毫米",
+      "category": "火箭炮",
+      "subtype": "多管",
+      "page": 177,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国227毫米M270自行火箭炮",
+      "model": "M270自行",
+      "core_model": "M270",
+      "caliber": "227毫米",
+      "category": "火箭炮",
+      "subtype": "自行",
+      "page": 181,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国227毫米M142自行火箭炮",
+      "model": "M142自行",
+      "core_model": "M142",
+      "caliber": "227毫米",
+      "category": "火箭炮",
+      "subtype": "自行",
+      "page": 186,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "苏联132毫米BM-13自行火箭炮",
+      "model": "BM-13自行",
+      "core_model": "BM-13",
+      "caliber": "132毫米",
+      "category": "火箭炮",
+      "subtype": "自行",
+      "page": 190,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "苏联122毫米BM-21自行火箭炮",
+      "model": "BM-21自行",
+      "core_model": "BM-21",
+      "caliber": "122毫米",
+      "category": "火箭炮",
+      "subtype": "自行",
+      "page": 194,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "苏联300毫米BM-30自行火箭炮",
+      "model": "BM-30自行",
+      "core_model": "BM-30",
+      "caliber": "300毫米",
+      "category": "火箭炮",
+      "subtype": "自行",
+      "page": 198,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "德国150毫米Nebelwerfer 41多管火箭炮",
+      "model": "Nebelwerfer 41多管",
+      "core_model": "Nebelwerfer 41",
+      "caliber": "150毫米",
+      "category": "火箭炮",
+      "subtype": "多管",
+      "page": 202,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "捷克斯洛伐克122毫米RM-70自行火箭炮",
+      "model": "RM-70自行",
+      "core_model": "RM-70",
+      "caliber": "122毫米",
+      "category": "火箭炮",
+      "subtype": "自行",
+      "page": 206,
+      "countries": [
+        "捷克斯洛伐克"
+      ]
+    },
+    {
+      "name": "波兰122毫米WR-40自行火箭炮",
+      "model": "WR-40自行",
+      "core_model": "WR-40",
+      "caliber": "122毫米",
+      "category": "火箭炮",
+      "subtype": "自行",
+      "page": 210,
+      "countries": [
+        "波兰"
+      ]
+    },
+    {
+      "name": "巴西ASTROS Ⅱ多口径自行火箭炮",
+      "model": "ASTROS Ⅱ多口径自行",
+      "core_model": "ASTROS Ⅱ",
+      "caliber": "",
+      "category": "火箭炮",
+      "subtype": "自行",
+      "page": 214,
+      "countries": [
+        "巴西"
+      ]
+    },
+    {
+      "name": "印度214毫米Pinaka自行火箭炮",
+      "model": "Pinaka自行",
+      "core_model": "Pinaka",
+      "caliber": "214毫米",
+      "category": "火箭炮",
+      "subtype": "自行",
+      "page": 218,
+      "countries": [
+        "印度"
+      ]
+    },
+    {
+      "name": "日本130毫米75式自行火箭炮",
+      "model": "75式自行",
+      "core_model": "75式",
+      "caliber": "130毫米",
+      "category": "火箭炮",
+      "subtype": "自行",
+      "page": 222,
+      "countries": [
+        "日本"
+      ]
+    },
+    {
+      "name": "美国M10狼獾自行反坦克炮",
+      "model": "M10狼獾自行",
+      "core_model": "M10狼獾",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 227,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国M18地狱猫自行反坦克炮",
+      "model": "M18地狱猫自行",
+      "core_model": "M18地狱猫",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 231,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国M36杰克逊自行反坦克炮",
+      "model": "M36杰克逊自行",
+      "core_model": "M36杰克逊",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 236,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "苏联SU-85自行反坦克炮",
+      "model": "SU-85自行",
+      "core_model": "SU-85",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 240,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "苏联SU-100自行反坦克炮",
+      "model": "SU-100自行",
+      "core_model": "SU-100",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 244,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "苏联ZiS-30自行反坦克炮",
+      "model": "ZiS-30自行",
+      "core_model": "ZiS-30",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 249,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "俄罗斯2S25自行反坦克炮",
+      "model": "2S25自行",
+      "core_model": "2S25",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 253,
+      "countries": [
+        "俄罗斯"
+      ]
+    },
+    {
+      "name": "德国PaK 36反坦克炮",
+      "model": "PaK 36",
+      "core_model": "PaK 36",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "",
+      "page": 257,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "德国Pak 38反坦克炮",
+      "model": "Pak 38",
+      "core_model": "Pak 38",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "",
+      "page": 261,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "德国猎豹自行反坦克炮",
+      "model": "猎豹自行",
+      "core_model": "猎豹",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 264,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "德国猎虎自行反坦克炮",
+      "model": "猎虎自行",
+      "core_model": "猎虎",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 268,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "德国追猎者自行反坦克炮",
+      "model": "追猎者自行",
+      "core_model": "追猎者",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 272,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "法国AMX-10RC轮式自行反坦克炮",
+      "model": "AMX-10RC轮式自行",
+      "core_model": "AMX-10RC",
+      "caliber": "",
+      "category": "反坦克炮",
+      "subtype": "自行",
+      "page": 276,
+      "countries": [
+        "法国"
+      ]
+    },
+    {
+      "name": "美国90毫米M1高射炮",
+      "model": "M1",
+      "core_model": "M1",
+      "caliber": "90毫米",
+      "category": "防空火炮",
+      "subtype": "",
+      "page": 281,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "苏联85毫米M1939型高射炮",
+      "model": "M1939型",
+      "core_model": "M1939",
+      "caliber": "85毫米",
+      "category": "防空火炮",
+      "subtype": "型",
+      "page": 285,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "苏联23毫米ZU-23-2双管高射炮",
+      "model": "ZU-23-2双管",
+      "core_model": "ZU-23-2双管",
+      "caliber": "23毫米",
+      "category": "防空火炮",
+      "subtype": "",
+      "page": 289,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "苏联2K22自行防空系统",
+      "model": "2K22自行",
+      "core_model": "2K22",
+      "caliber": "",
+      "category": "防空火炮",
+      "subtype": "自行",
+      "page": 294,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "苏联ZSU-23-4自行防空炮",
+      "model": "ZSU-23-4自行",
+      "core_model": "ZSU-23-4",
+      "caliber": "",
+      "category": "防空火炮",
+      "subtype": "自行",
+      "page": 298,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "德国FlaK 40式高射炮",
+      "model": "FlaK 40式",
+      "core_model": "FlaK 40式",
+      "caliber": "",
+      "category": "防空火炮",
+      "subtype": "",
+      "page": 302,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "德国88毫米高射炮",
+      "model": "88毫米",
+      "core_model": "88毫米",
+      "caliber": "",
+      "category": "防空火炮",
+      "subtype": "",
+      "page": 307,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "德国猎豹自行防空炮",
+      "model": "猎豹自行",
+      "core_model": "猎豹",
+      "caliber": "",
+      "category": "防空火炮",
+      "subtype": "自行",
+      "page": 312,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "德国四号家具车自行防空炮",
+      "model": "四号家具车自行",
+      "core_model": "四号家具车",
+      "caliber": "",
+      "category": "防空火炮",
+      "subtype": "自行",
+      "page": 315,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "德国四号旋风自行防空炮",
+      "model": "四号旋风自行",
+      "core_model": "四号旋风",
+      "caliber": "",
+      "category": "防空火炮",
+      "subtype": "自行",
+      "page": 319,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "德国四号东风自行防空炮",
+      "model": "四号东风自行",
+      "core_model": "四号东风",
+      "caliber": "",
+      "category": "防空火炮",
+      "subtype": "自行",
+      "page": 323,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "瑞典博福斯M34高射炮",
+      "model": "博福斯M34",
+      "core_model": "博福斯M34",
+      "caliber": "",
+      "category": "防空火炮",
+      "subtype": "",
+      "page": 326,
+      "countries": [
+        "瑞典"
+      ]
+    },
+    {
+      "name": "瑞士厄利孔GDF双管高射炮",
+      "model": "厄利孔GDF双管",
+      "core_model": "厄利孔GDF双管",
+      "caliber": "",
+      "category": "防空火炮",
+      "subtype": "",
+      "page": 331,
+      "countries": [
+        "瑞士"
+      ]
+    },
+    {
+      "name": "日本35毫米87式自行防空炮",
+      "model": "87式自行",
+      "core_model": "87式",
+      "caliber": "35毫米",
+      "category": "防空火炮",
+      "subtype": "自行",
+      "page": 335,
+      "countries": [
+        "日本"
+      ]
+    },
+    {
+      "name": "日本75毫米88式高射炮",
+      "model": "88式",
+      "core_model": "88式",
+      "caliber": "75毫米",
+      "category": "防空火炮",
+      "subtype": "",
+      "page": 339,
+      "countries": [
+        "日本"
+      ]
+    },
+    {
+      "name": "美国406毫米MK7型舰炮",
+      "model": "MK7型",
+      "core_model": "MK7",
+      "caliber": "406毫米",
+      "category": "舰炮",
+      "subtype": "型",
+      "page": 345,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国25毫米MK38型舰炮",
+      "model": "MK38型",
+      "core_model": "MK38",
+      "caliber": "25毫米",
+      "category": "舰炮",
+      "subtype": "型",
+      "page": 349,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "美国127毫米MK45型舰炮",
+      "model": "MK45型",
+      "core_model": "MK45",
+      "caliber": "127毫米",
+      "category": "舰炮",
+      "subtype": "型",
+      "page": 353,
+      "countries": [
+        "美国"
+      ]
+    },
+    {
+      "name": "德国27毫米MLG 27遥控舰炮",
+      "model": "MLG 27遥控",
+      "core_model": "MLG 27",
+      "caliber": "27毫米",
+      "category": "舰炮",
+      "subtype": "遥控",
+      "page": 357,
+      "countries": [
+        "德国"
+      ]
+    },
+    {
+      "name": "苏联130毫米AK-130舰炮",
+      "model": "AK-130",
+      "core_model": "AK-130",
+      "caliber": "130毫米",
+      "category": "舰炮",
+      "subtype": "",
+      "page": 360,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "苏联30毫米AK-630舰炮",
+      "model": "AK-630",
+      "core_model": "AK-630",
+      "caliber": "30毫米",
+      "category": "舰炮",
+      "subtype": "",
+      "page": 363,
+      "countries": [
+        "苏联"
+      ]
+    },
+    {
+      "name": "意大利奥托梅莱拉76毫米舰炮",
+      "model": "奥托梅莱拉76毫米",
+      "core_model": "奥托梅莱拉76毫米",
+      "caliber": "",
+      "category": "舰炮",
+      "subtype": "",
+      "page": 366,
+      "countries": [
+        "意大利"
+      ]
+    }
+  ],
+  "countries": [
+    "俄罗斯",
+    "印度",
+    "巴西",
+    "德国",
+    "意大利",
+    "捷克斯洛伐克",
+    "日本",
+    "法国",
+    "波兰",
+    "瑞典",
+    "瑞士",
+    "美国",
+    "苏联",
+    "英国",
+    "韩国"
+  ],
+  "categories": [
+    "反坦克炮",
+    "榴弹炮",
+    "火箭炮",
+    "舰炮",
+    "迫击炮",
+    "防空火炮"
+  ],
+  "relations": [
+    {
+      "source": "美国75毫米M1榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国75毫米M1榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国105毫米M2榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国105毫米M2榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国105毫米M119榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国105毫米M119榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国155毫米M198榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国155毫米M198榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国155毫米M109自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国155毫米M109自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国203毫米M110自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国203毫米M110自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联122毫米M-30榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联122毫米M-30榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联152毫米ML-20榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联152毫米ML-20榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "俄罗斯152毫米2S19自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "俄罗斯",
+      "target_type": "Country"
+    },
+    {
+      "source": "俄罗斯152毫米2S19自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国105毫米leFH 18榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国105毫米leFH 18榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国150毫米sFH 18榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国150毫米sFH 18榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "英国QF 25磅榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "英国",
+      "target_type": "Country"
+    },
+    {
+      "source": "英国QF 25磅榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "英国155毫米M777榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "英国",
+      "target_type": "Country"
+    },
+    {
+      "source": "英国155毫米M777榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "英国/德国/意大利155毫米FH70榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "英国",
+      "target_type": "Country"
+    },
+    {
+      "source": "英国/德国/意大利155毫米FH70榴弹炮",
+      "source_type": "Artillery",
+      "relation": "EQUIPPED_BY",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "英国/德国/意大利155毫米FH70榴弹炮",
+      "source_type": "Artillery",
+      "relation": "EQUIPPED_BY",
+      "target": "意大利",
+      "target_type": "Country"
+    },
+    {
+      "source": "英国/德国/意大利155毫米FH70榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "英国\t155毫米AS-90自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "英国",
+      "target_type": "Country"
+    },
+    {
+      "source": "英国\t155毫米AS-90自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "英国105毫米阿伯特自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "英国",
+      "target_type": "Country"
+    },
+    {
+      "source": "英国105毫米阿伯特自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "瑞典155毫米FH77榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "瑞典",
+      "target_type": "Country"
+    },
+    {
+      "source": "瑞典155毫米FH77榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "法国155毫米TRF1榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "法国",
+      "target_type": "Country"
+    },
+    {
+      "source": "法国155毫米TRF1榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "法国155毫米凯撒自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "法国",
+      "target_type": "Country"
+    },
+    {
+      "source": "法国155毫米凯撒自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国155毫米PzH2000自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国155毫米PzH2000自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "韩国\t155毫米K9自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "韩国",
+      "target_type": "Country"
+    },
+    {
+      "source": "韩国\t155毫米K9自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "日本155毫米75式自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "日本",
+      "target_type": "Country"
+    },
+    {
+      "source": "日本155毫米75式自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "日本155毫米99式自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "日本",
+      "target_type": "Country"
+    },
+    {
+      "source": "日本155毫米99式自行榴弹炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "榴弹炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国60毫米M2迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国60毫米M2迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国107毫米M30迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国107毫米M30迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国120毫米M120迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国120毫米M120迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国60毫米M224迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国60毫米M224迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国81毫米M252迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国81毫米M252迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国龙火迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国龙火迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联120毫米M1938迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联120毫米M1938迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联82毫米2B9迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联82毫米2B9迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "俄罗斯120毫米2S9自行迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "俄罗斯",
+      "target_type": "Country"
+    },
+    {
+      "source": "俄罗斯120毫米2S9自行迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国81毫米GrW 34迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国81毫米GrW 34迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "英国81毫米L16迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "英国",
+      "target_type": "Country"
+    },
+    {
+      "source": "英国81毫米L16迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "英国51毫米L9A1迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "英国",
+      "target_type": "Country"
+    },
+    {
+      "source": "英国51毫米L9A1迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "法国120毫米MO-120-RT-61迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "法国",
+      "target_type": "Country"
+    },
+    {
+      "source": "法国120毫米MO-120-RT-61迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "日本120毫米96式自行迫击炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "日本",
+      "target_type": "Country"
+    },
+    {
+      "source": "日本120毫米96式自行迫击炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "迫击炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国114毫米T34多管火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国114毫米T34多管火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国227毫米M270自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国227毫米M270自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国227毫米M142自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国227毫米M142自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联132毫米BM-13自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联132毫米BM-13自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联122毫米BM-21自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联122毫米BM-21自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联300毫米BM-30自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联300毫米BM-30自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国150毫米Nebelwerfer 41多管火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国150毫米Nebelwerfer 41多管火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "捷克斯洛伐克122毫米RM-70自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "捷克斯洛伐克",
+      "target_type": "Country"
+    },
+    {
+      "source": "捷克斯洛伐克122毫米RM-70自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "波兰122毫米WR-40自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "波兰",
+      "target_type": "Country"
+    },
+    {
+      "source": "波兰122毫米WR-40自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "巴西ASTROS Ⅱ多口径自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "巴西",
+      "target_type": "Country"
+    },
+    {
+      "source": "巴西ASTROS Ⅱ多口径自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "印度214毫米Pinaka自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "印度",
+      "target_type": "Country"
+    },
+    {
+      "source": "印度214毫米Pinaka自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "日本130毫米75式自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "日本",
+      "target_type": "Country"
+    },
+    {
+      "source": "日本130毫米75式自行火箭炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "火箭炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国M10狼獾自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国M10狼獾自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国M18地狱猫自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国M18地狱猫自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国M36杰克逊自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国M36杰克逊自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联SU-85自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联SU-85自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联SU-100自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联SU-100自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联ZiS-30自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联ZiS-30自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "俄罗斯2S25自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "俄罗斯",
+      "target_type": "Country"
+    },
+    {
+      "source": "俄罗斯2S25自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国PaK 36反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国PaK 36反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国Pak 38反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国Pak 38反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国猎豹自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国猎豹自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国猎虎自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国猎虎自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国追猎者自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国追猎者自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "法国AMX-10RC轮式自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "法国",
+      "target_type": "Country"
+    },
+    {
+      "source": "法国AMX-10RC轮式自行反坦克炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "反坦克炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国90毫米M1高射炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国90毫米M1高射炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联85毫米M1939型高射炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联85毫米M1939型高射炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联23毫米ZU-23-2双管高射炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联23毫米ZU-23-2双管高射炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联2K22自行防空系统",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联2K22自行防空系统",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联ZSU-23-4自行防空炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联ZSU-23-4自行防空炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国FlaK 40式高射炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国FlaK 40式高射炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国88毫米高射炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国88毫米高射炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国猎豹自行防空炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国猎豹自行防空炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国四号家具车自行防空炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国四号家具车自行防空炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国四号旋风自行防空炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国四号旋风自行防空炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国四号东风自行防空炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国四号东风自行防空炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "瑞典博福斯M34高射炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "瑞典",
+      "target_type": "Country"
+    },
+    {
+      "source": "瑞典博福斯M34高射炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "瑞士厄利孔GDF双管高射炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "瑞士",
+      "target_type": "Country"
+    },
+    {
+      "source": "瑞士厄利孔GDF双管高射炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "日本35毫米87式自行防空炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "日本",
+      "target_type": "Country"
+    },
+    {
+      "source": "日本35毫米87式自行防空炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "日本75毫米88式高射炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "日本",
+      "target_type": "Country"
+    },
+    {
+      "source": "日本75毫米88式高射炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "防空火炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国406毫米MK7型舰炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国406毫米MK7型舰炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "舰炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国25毫米MK38型舰炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国25毫米MK38型舰炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "舰炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "美国127毫米MK45型舰炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "美国",
+      "target_type": "Country"
+    },
+    {
+      "source": "美国127毫米MK45型舰炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "舰炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "德国27毫米MLG 27遥控舰炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "德国",
+      "target_type": "Country"
+    },
+    {
+      "source": "德国27毫米MLG 27遥控舰炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "舰炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联130毫米AK-130舰炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联130毫米AK-130舰炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "舰炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "苏联30毫米AK-630舰炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "苏联",
+      "target_type": "Country"
+    },
+    {
+      "source": "苏联30毫米AK-630舰炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "舰炮",
+      "target_type": "Category"
+    },
+    {
+      "source": "意大利奥托梅莱拉76毫米舰炮",
+      "source_type": "Artillery",
+      "relation": "DEVELOPED_IN",
+      "target": "意大利",
+      "target_type": "Country"
+    },
+    {
+      "source": "意大利奥托梅莱拉76毫米舰炮",
+      "source_type": "Artillery",
+      "relation": "IS_TYPE_OF",
+      "target": "舰炮",
+      "target_type": "Category"
+    }
+  ]
+}

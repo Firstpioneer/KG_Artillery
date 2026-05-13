@@ -1,0 +1,118 @@
+{
+  "entity": {
+    "precision": 0.4139,
+    "recall": 1.0,
+    "f1": 0.5855,
+    "tp": 274,
+    "fp": 388,
+    "fn": 0,
+    "gold_count": 274,
+    "machine_count": 662
+  },
+  "relation": {
+    "precision": 0.4397,
+    "recall": 1.0,
+    "f1": 0.6108,
+    "tp": 576,
+    "fp": 734,
+    "fn": 0,
+    "gold_count": 576,
+    "machine_count": 1310
+  },
+  "by_relation_type": {
+    "DERIVED_FROM": {
+      "precision": 0.7647,
+      "recall": 1.0,
+      "f1": 0.8667,
+      "gold": 91,
+      "machine": 119,
+      "tp": 91
+    },
+    "DESIGNED_BY": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "gold": 38,
+      "machine": 38,
+      "tp": 38
+    },
+    "DEVELOPED_IN": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "gold": 84,
+      "machine": 84,
+      "tp": 84
+    },
+    "EQUIPPED_BY": {
+      "precision": 0.7288,
+      "recall": 1.0,
+      "f1": 0.8431,
+      "gold": 86,
+      "machine": 118,
+      "tp": 86
+    },
+    "HAS_PROPERTY": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "gold": 0,
+      "machine": 446,
+      "tp": 0
+    },
+    "IS_SUBTYPE_OF": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "gold": 0,
+      "machine": 149,
+      "tp": 0
+    },
+    "IS_TYPE_OF": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "gold": 84,
+      "machine": 84,
+      "tp": 84
+    },
+    "PARTICIPATED_IN": {
+      "precision": 0.971,
+      "recall": 1.0,
+      "f1": 0.9853,
+      "gold": 67,
+      "machine": 69,
+      "tp": 67
+    },
+    "SERVED_IN": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "gold": 0,
+      "machine": 77,
+      "tp": 0
+    },
+    "USES_AMMO": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "gold": 110,
+      "machine": 110,
+      "tp": 110
+    },
+    "USES_CHASSIS": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "gold": 16,
+      "machine": 16,
+      "tp": 16
+    }
+  },
+  "gold_scale_check": {
+    "entity_requirement": 200,
+    "relation_requirement": 400,
+    "entity_passed": true,
+    "relation_passed": true
+  }
+}

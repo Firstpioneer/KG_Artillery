@@ -1,0 +1,6 @@
+PyMuPDF
+rapidocr-onnxruntime
+neo4j
+streamlit
+plotly
+Pillow
