@@ -78,12 +78,14 @@ def _canonical_path(path_str: str) -> str:
     if not path_str:
         return ""
     path = Path(path_str)
-    if not path.is_absolute():
-        if str(path).startswith("..\\data") or str(path).startswith("../data"):
-            path = (ROOT_DIR / "src" / path).resolve()
-        else:
-            path = (ROOT_DIR / path).resolve()
-    return str(path)
+    # 统一转为正斜杠
+    s = str(path).replace("\\", "/")
+    # 处理 ../data/images/... 相对路径（从src目录出发的相对路径）
+    if s.startswith("../data"):
+        s = s[3:]  # 去掉 ../  -> data/images/...
+    # 转为相对于项目根目录的路径
+    resolved = (ROOT_DIR / s).resolve()
+    return str(resolved)
 
 
 def _normalize_name(text: str) -> str:
